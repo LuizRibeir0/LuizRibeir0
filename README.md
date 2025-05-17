@@ -49,8 +49,8 @@ Desenvolvendo com Java & Spring Boot, explorando APIs REST, banco de dados e boa
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="20" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizRibeir0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
