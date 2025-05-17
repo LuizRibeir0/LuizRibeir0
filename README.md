@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luiz Ribeiro
+# 👨‍💻 Luiz Ribeiro
 
 **`Desenvolvedor Backend`**
 
