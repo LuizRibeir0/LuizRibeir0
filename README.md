@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Luiz Ribeiro, tenho 22 anos e sou estagiário no Sicoob em Brasília-DF, trabalhando com a linguagem Java e Springboot.
+Me chamo Luiz Ribeiro, tenho 22 anos e sou estagiário no Sicoob em Brasília-DF.
+Desenvolvendo com Java & Spring Boot, explorando APIs REST, banco de dados e boas práticas de back-end.
 
 
 ---
